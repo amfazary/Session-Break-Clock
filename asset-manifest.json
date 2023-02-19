@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Session-Break-Clock/static/css/main.f2b155f4.css",
+    "main.js": "/Session-Break-Clock/static/js/main.d97ae4f1.js",
+    "static/media/TimeStop.wav": "/Session-Break-Clock/static/media/TimeStop.9992215c5e031e06861d.wav",
+    "index.html": "/Session-Break-Clock/index.html",
+    "main.f2b155f4.css.map": "/Session-Break-Clock/static/css/main.f2b155f4.css.map",
+    "main.d97ae4f1.js.map": "/Session-Break-Clock/static/js/main.d97ae4f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2b155f4.css",
+    "static/js/main.d97ae4f1.js"
+  ]
+}
